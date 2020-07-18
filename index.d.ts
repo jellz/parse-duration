@@ -12,7 +12,7 @@ type Units =
   'hour' | 'hr' | 'h' |
   'day' | 'd' |
   'week' | 'wk' | 'w' |
-  'month' | 'b' |
+  'month' | 'mo' | 'b' |
   'year' | 'yr' | 'y'
 
 export default function parse (str: string, format?: Units): number | null
