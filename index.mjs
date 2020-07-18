@@ -36,6 +36,7 @@ parse.wk =
 parse.w = parse.d * 7
 
 parse.month =
+parse.mo =
 parse.b =
 parse.d * (365.25 / 12)
 
